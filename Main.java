@@ -5,7 +5,7 @@ public class Main{
         System.out.println("Hello jenkins");
         System.out.println(new Date());
         System.out.println("Hello");
-        Student st1 = new Student();\
+        Student st1 = new Student();
         st1.sayHello();
     }
 }
